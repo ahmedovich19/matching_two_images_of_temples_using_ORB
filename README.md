@@ -1,1 +1,2 @@
 # matching_two_images_of_temples_using_ORB
+in this project we will matching two images of temples using ORB.Oriented FAST and rotated BRIEF (ORB) is a fast robust local feature detector that can be used in computer vision tasks like object recognition or 3D reconstruction. It is based on the FAST keypoint detector and a modified version of the visual descriptor BRIEF (Binary Robust Independent Elementary Features). Its aim is to provide a fast and efficient alternative to SIFT.
